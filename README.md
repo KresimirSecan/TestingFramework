@@ -52,5 +52,9 @@ Before setting up the project, ensure you have the following tools installed:
 **If you do not want to set up the site and framework on your machine and just want to see how the framework works, here is a quick speed up video of the testing framework in action.**
 
 
-https://github.com/user-attachments/assets/42f25783-18eb-425a-ba00-71dea2573ae0
+
+
+https://github.com/user-attachments/assets/c6c39a27-7325-4f19-bd59-d2f718dd8db0
+
+
 

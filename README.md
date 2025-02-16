@@ -8,8 +8,8 @@ The framework is written in **Java** and uses **Maven** for dependency managemen
 ## Requirements
 Before setting up the project, ensure you have the following tools installed:
 ### 1. WebFarma
-    - **First we need to set up and run the WebFarma app locally**
-     - [WebFarmaSetUp](https://github.com/KresimirSecan/WebFarma/blob/master/README.md)
+- **First we need to set up and run the WebFarma app locally** 
+  - [WebFarma Set Up](https://github.com/KresimirSecan/WebFarma/blob/master/README.md)
 ### 2. Development Tools:
 - **Java JDK** (Java Development Kit)  
   - [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)

@@ -26,13 +26,16 @@ Before setting up the project, ensure you have the following tools installed:
 
 ---
 ## Test Execution Guide
+**First, we need to set up and run the WebFarma app locally. 
+How to do that we can see [here](https://github.com/KresimirSecan/WebFarma/blob/master/README.md)**
+**To run the TestingFramework you can just follow the steps:**
 
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/KresimirSecan/TestingFramework.git
    ```
 
-2. **Navigate to the project directory**:
+2. **Navigate to the project directory in cmd**:
    ```sh
    cd "ProjectFolderLocation"
    ```

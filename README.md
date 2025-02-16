@@ -4,6 +4,7 @@ This project is a simple framework for automated testing of the [WebFarma websit
 The framework is written in **Java** and uses **Maven** for dependency management. We use **Selenium WebDriver** for test automation, while **ChromeDriver** is used to execute tests in the **Google Chrome** browser. **TestNG** is used for generating test reports.
 
 ---
+**If you do not want to set up the site and framework on your machine and just want to see how the framework works, at the end of the readme is speed up video of the testing framework in action.**
 ## Requirements
 Before setting up the project, ensure you have the following tools installed:
 
@@ -26,9 +27,8 @@ Before setting up the project, ensure you have the following tools installed:
 
 ---
 ## Test Execution Guide
-**First, we need to set up and run the WebFarma app locally. 
-How to do that we can see [here](https://github.com/KresimirSecan/WebFarma/blob/master/README.md)**
-**To run the TestingFramework you can just follow the steps:**
+**First we need to set up and run the WebFarma app locally, how to do that we can see [here](https://github.com/KresimirSecan/WebFarma/blob/master/README.md)**
+**Then to run the TestingFramework you can just follow the steps:**
 
 1. **Clone the repository**:
    ```sh
@@ -51,9 +51,6 @@ How to do that we can see [here](https://github.com/KresimirSecan/WebFarma/blob/
      ProjectFolderLocation\target\surefire-reports\index.html
      ```
 ---
-
-**If you do not want to set up the site and framework on your machine and just want to see how the framework works, here is a quick speed up video of the testing framework in action.**
-
 
 
 
